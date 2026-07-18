@@ -2,79 +2,67 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia, programação e inovação.
 
-Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como profissional da área de desenvolvimento de software.
+Estou iniciando minha jornada na área de desenvolvimento de software, buscando aprender novas tecnologias, criar projetos e evoluir constantemente como programador.
+
+---
 
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,arduino,vscode" />
-
-</div>
-
-## 📚 Atualmente estudando
-
-* Desenvolvimento de software
-* Lógica de programação
-* Python
-* Git e GitHub
-* Sistemas embarcados
-* Tecnologias para desenvolvimento web
-
-## 🏆 Minhas conquistas no GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dayvydtrindadeoficial-oss\&theme=dark\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dayvydtrindadeoficial-oss)](https://git.io/streak-stats)
-
-</div>
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dayvydtrindadeoficial-oss)](https://github.com/dayvydtrindadeoficial-oss)
-
-</div>
-
-## 🐍 Minha evolução em commits
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/dayvydtrindadeoficial-oss/dayvydtrindadeoficial-oss/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 🌎 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/dayvydtrindadeoficial-oss">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-</div>
-
-## 👀 Visitantes do perfil
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dayvydtrindadeoficial-oss&style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode,arduino" />
 
 </div>
 
 ---
 
-⭐ Obrigado pela visita! Sempre aprendendo, criando e evoluindo na tecnologia.
+## 📚 Atualmente estudando
+
+💻 Lógica de programação
+🐍 Python
+🌐 Desenvolvimento Web
+🔧 Git e GitHub
+🤖 Arduino e Sistemas Embarcados
+📖 Análise e Desenvolvimento de Sistemas (ADS)
+
+---
+
+## 🛠️ Projetos
+
+🚧 Meus projetos estão em desenvolvimento.
+
+Em breve vou compartilhar aplicações, estudos e projetos pessoais desenvolvidos durante minha evolução na programação.
+
+---
+
+## 🎯 Objetivos
+
+* Evoluir minhas habilidades em programação;
+* Desenvolver projetos reais;
+* Aprender novas tecnologias;
+* Construir uma carreira na área de tecnologia.
+
+---
+
+## 🌎 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/dayvydtrindadeoficial-oss">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
+
